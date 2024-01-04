@@ -427,7 +427,7 @@
         let notes = [];
 
         for (const note of scale.scale) {
-            notes.push(`/${sample}/${note}.mp3`);
+            notes.push(`${sample}/${note}.mp3`);
         }
 
         for (let i = 0; i < notes.length; i++) {
@@ -475,7 +475,7 @@
         scaleCounter++;
 
         let sound = new Howl({
-            src: [`/${sample}/${scale.scale[randomScaleDegree]}.mp3`],
+            src: [`${sample}/${scale.scale[randomScaleDegree]}.mp3`],
             volume: 0.5,
         });
 
