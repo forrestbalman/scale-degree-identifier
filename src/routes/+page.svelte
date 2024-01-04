@@ -494,7 +494,7 @@
                 totalScore++;
 
                 new Howl({
-                    src: [`/correct.mp3`],
+                    src: [`correct.mp3`],
                     volume: 0.5,
                 }).play();
 
@@ -512,7 +512,7 @@
                 totalScore++;
 
                 new Howl({
-                    src: [`/wrong.mp3`],
+                    src: [`wrong.mp3`],
                     volume: 0.5,
                 }).play();
 
