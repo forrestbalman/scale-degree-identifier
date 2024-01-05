@@ -23,7 +23,7 @@
         },
         {
             key: "D",
-            scale: ["D3", "E3", "Fs3", "G3", "A3", "B3", "Cs3", "D4"],
+            scale: ["D3", "E3", "Fs3", "G3", "A3", "B3", "Cs4", "D4"],
             abc: "DEFGABcd",
         },
         {
