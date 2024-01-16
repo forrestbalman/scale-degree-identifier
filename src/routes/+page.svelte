@@ -43,7 +43,7 @@
         },
         {
             key: "Cb",
-            scale: ["B2", "Cs3", "Ds3", "F3", "Fs3", "Gs3", "As3", "B3"],
+            scale: ["B2", "Cs3", "Ds3", "E3", "Fs3", "Gs3", "As3", "B3"],
             abc: "CDEFGABc",
         },
         {
@@ -557,7 +557,7 @@
         <!--Navigation-->
         <nav class="py-3">
             <div class="d-flex align-items-center justify-content-center gap-1">
-                <img src="favicon.png" width="32" height="32" alt="Alexa Thanos logo"/>
+                <img src="favicon.png" width="32" height="32" alt="Alexa Thanos logo" />
                 <a href="https://www.alexathanos.com/" class="fs-4 fw-light text-decoration-none text-dark">Alexa Thanos</a>
             </div>
         </nav>
